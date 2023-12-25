@@ -1,7 +1,5 @@
 # KickOff- Building the Ultimate Football Data Repository
 
-## Data Import from Transfermarkt.com
-
 ## Data Source
 The data used in this project was obtained through web scraping techniques using Python and Beautiful Soup from the website [Transfermarkt](https://www.transfermarkt.com).
 
@@ -82,7 +80,7 @@ Ensure to install these dependencies before running the web application. You can
 
 ```bash
 pip install pandas numpy psycopg2 streamlit st_aggrid altair geopandas geopy streamlit_folium folium
-
+```
 
 ## Notes
 - Make sure to update the database connection details (database name, username, password) in the scripts before execution.
