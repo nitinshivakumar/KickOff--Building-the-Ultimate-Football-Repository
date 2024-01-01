@@ -1,5 +1,5 @@
 # KickOff- Building the Ultimate Football Data Repository
-![hippo](https://media.giphy.com/media/XcAskcEyoyld03drLt/giphy-downsized-large.gif)
+![hippo](https://github.com/nitinshivakumar/KickOff--Building-the-Ultimate-Football-Repository/blob/main/Website/Images/giphy.gif)
 ## Data Source
 The data used in this project was obtained through web scraping techniques using Python and Beautiful Soup from the website [Transfermarkt](https://www.transfermarkt.com).
 
